@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitle">
+        <item>The Tale of A</item>
+        <item>The Tale of B</item>
+        <item>The Tale of C</item>
+        <item>The Tale of D</item>
+        <item>The Tale of E</item>
+        <item>The Tale of F</item>
+        <item>The Tale of G</item>
+        <item>The Tale of H</item>
+        <item>The Tale of I</item>
+        <item>The Tale of J</item>
+    </string-array>
+
+</resources>
